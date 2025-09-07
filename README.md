@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a second-year Computer Science major at Mabini Colleges, Inc. enthusiastic about discovering and gaining knowledge about the fields of coding, editing, and creating reliable systems.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_madzzzzz) 
